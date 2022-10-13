@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto de los 5 chinos/1.0.0": {
+        "runtime": {
+          "Proyecto de los 5 chinos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto de los 5 chinos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

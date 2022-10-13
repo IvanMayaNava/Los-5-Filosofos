@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\bin\Debug\net6.0-windows\Proyecto de los 5 chinos.exe
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\bin\Debug\net6.0-windows\Proyecto de los 5 chinos.deps.json
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\bin\Debug\net6.0-windows\Proyecto de los 5 chinos.runtimeconfig.json
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\bin\Debug\net6.0-windows\Proyecto de los 5 chinos.dll
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\bin\Debug\net6.0-windows\Proyecto de los 5 chinos.pdb
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto_de_los_5_chinos.Properties.Resources.resources
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.AssemblyInfo.cs
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.dll
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\refint\Proyecto de los 5 chinos.dll
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.pdb
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto de los 5 chinos.genruntimeconfig.cache
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\ref\Proyecto de los 5 chinos.dll
+C:\Users\PC\source\repos\Proyecto de los 5 chinos\Proyecto de los 5 chinos\obj\Debug\net6.0-windows\Proyecto_de_los_5_chinos.Base1.resources
